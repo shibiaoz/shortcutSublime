@@ -1,6 +1,6 @@
 ####输入tb 自动提示
+tips-
 ====================================
-
 ```
 tbwidget == gennate a widget js
 tbscriptStart ==use script
