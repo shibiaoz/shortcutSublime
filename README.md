@@ -35,3 +35,6 @@ tbdisableInput  ==  disableInput
 </snippet>
 
 ```
+####更多规则
+http://docs.sublimetext.info/en/latest/extensibility/snippets.html
+http://www.cnblogs.com/yili16438/p/3734343.html
