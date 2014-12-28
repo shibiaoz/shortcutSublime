@@ -1,10 +1,12 @@
 <snippet>
 	<content><![CDATA[
-\$.dateFormat(new Date(intTimeStamp),"yyyy-MM-dd HH:mm:ss");
+\$.JsLoadManager.use(['${1:a}.js',], function () { 
+	$2
+});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>tbdateFormate</tabTrigger>
+	<tabTrigger>tbjsload</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
-	<description> $.dateFormate</description>
+	<description>$.JsLoadManager</description>
 </snippet>

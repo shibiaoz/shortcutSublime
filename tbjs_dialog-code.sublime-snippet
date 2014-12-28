@@ -9,5 +9,5 @@ new  \$.dialog({
 ]]></content>
 <scope>source.js</scope>
 <tabTrigger>tbdialog</tabTrigger> 
-<description>tbjs dialog</description>
+<description>$.dialog</description>
 </snippet>
