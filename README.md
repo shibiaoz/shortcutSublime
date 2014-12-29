@@ -1,5 +1,21 @@
-####输入tb 自动提示
-tips-
+# 在此处输入标题
+
+
+标签（空格分隔）： 未分类
+
+---
+
+在此输入正文
+####how to install
+>* Open Package Control inside of Sublime Text using shift + cmd + P
+Search for: Package Control: Add Repository
+>* Add the link to your repo:https://github.com/shibiaoz/shortcutSublime
+>* Now install the snippets: shift + cmd + P To launch Package Control again.
+>* Start typing: Package Control: Install Package
+>* Search for the repo name.
+Start using your new snippet collection!
+
+输入tb自动提示
 ====================================
 ```
 tbwidget == gennate a widget js
@@ -17,8 +33,8 @@ tbrequireInstance == this.requireInstance
 tbalert == alert
 tbdisableInput  ==  disableInput
 ```
-
-####新建一个snippet ，toos new snippet 
+如何新建一个snippet ，toos new snippet 
+====================================
 
 ```
 <!-- Optional:代码片段 ，对某些特殊字符转义,$1,$2代表tab跳转到的位置-->
@@ -39,3 +55,9 @@ tbdisableInput  ==  disableInput
 ####更多规则
 http://docs.sublimetext.info/en/latest/extensibility/snippets.html
 http://www.cnblogs.com/yili16438/p/3734343.html
+http://mandymadethis.com/sharing-sublime-text-snippets/
+
+
+
+
+
